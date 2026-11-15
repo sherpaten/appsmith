@@ -24,6 +24,7 @@ The repository root LICENSE is Apache 2.0. Retain the required licence, copyrigh
 
 ## Status
 - [x] Demo scope documented.
+- [x] Creto-branded static concept prototype added in `creto-demo/index.html` with fictional sample content and lightweight interactions.
 - [ ] Confirm Community Edition boundaries and component-specific licences for the selected release.
 - [ ] Build the sample operations dashboard with synthetic data.
 - [ ] Deploy an isolated instance with public viewer access and protected editor access.
